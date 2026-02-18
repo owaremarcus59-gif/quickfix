@@ -1,0 +1,19 @@
+[project]
+name="quickfix"
+version="0.0.1"
+authors=[
+    {name="Marcus Oware", email="owaremarcus59@gmail.com"},
+]
+description="A virtual dom and a python ui rending library"
+readme="README.md"
+requires-python= ">=3.9"
+classifiers = [
+    "Programming Language :: Python ::3 ",
+    "Operating System :: OS Independent",
+]
+license="MIT"
+license-files=["LICEN[CS]E*"]
+
+[project.urls]
+Homepage="https://github.com/owaremarcus59-gif/quickfix"
+Issues="https://github.com/owaremarcus59-gif/quickfix/issues"
